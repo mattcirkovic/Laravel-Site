@@ -1,0 +1,56 @@
+
+  .wccc-header {
+    padding: 100px;
+    height: 50vh;
+    min-height: 300px;
+    background: url("/img/pic8.jpg") center center no-repeat scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+  }
+
+  .about-title{
+    font-size: 50px;
+    font-weight: 350;
+  }
+
+  .header-text{
+    text-align: center;
+    vertical-align: middle;
+    color: white;
+    text-shadow: 1px 2px 1px black;
+    font-size: 7vw;
+    font-weight: 300;
+  }
+  
+  .card {
+    height: 100%;
+  }
+
+  .board{
+    margin: 50px;
+  }
+  
+  .about-divider {
+    margin: 2rem 0;
+  }
+
+  .board-image{
+    width: 100%;
+    height: auto;
+  }
+
+  .board-member{
+    margin: 2rem 0;
+  }
+
+  .links{
+    display: inline-block;
+    text-align: left;
+    margin-top: 20px;
+  }
+
+  .links > li{
+    color: lightskyblue;
+  }

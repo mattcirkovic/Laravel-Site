@@ -1,0 +1,21 @@
+.card {
+    max-height: 600px;
+}
+.card-body {
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.post-img{
+    height: auto;
+    max-width: 250px;
+}
+
+.post-list{
+    padding: 20px;
+    margin: 30px;
+}
+
+.image-box{
+    padding:10px;
+    margin:10px;
+}
